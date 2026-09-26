@@ -2,7 +2,7 @@
  "series": "Banten 1787",
  "posts": [
   {
-   "date": "2026-09-26",
+   "date": "done-2026-09-26",
    "id": "005",
    "type": "carousel",
    "title": "Houtman Diusir dari Banten",
@@ -40,7 +40,8 @@
      "media_type": "IMAGE",
      "image_url": "https://raw.githubusercontent.com/kronika-media-stack/kronika-media/main/posts/005/post-8.jpg"
     }
-   ]
+   ],
+   "posted": "2026-09-26 (uji coba manual)"
   },
   {
    "date": "2026-09-28",
