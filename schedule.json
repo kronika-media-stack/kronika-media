@@ -2,7 +2,7 @@
  "series": "Banten 1787",
  "posts": [
   {
-   "date": "2026-09-27",
+   "date": "2026-09-26",
    "id": "005",
    "type": "carousel",
    "title": "Houtman Diusir dari Banten",
@@ -43,7 +43,7 @@
    ]
   },
   {
-   "date": "2026-09-29",
+   "date": "2026-09-28",
    "id": "006",
    "type": "reel",
    "title": "Raja Mangala",
@@ -51,7 +51,7 @@
    "video_url": "https://raw.githubusercontent.com/kronika-media-stack/kronika-media/main/posts/006/reel.mp4"
   },
   {
-   "date": "2026-10-01",
+   "date": "2026-09-30",
    "id": "007",
    "type": "carousel",
    "title": "Sultan yang Terjerat Utang",
@@ -92,7 +92,7 @@
    ]
   },
   {
-   "date": "2026-10-03",
+   "date": "2026-10-02",
    "id": "008",
    "type": "reel",
    "title": "Kota yang Tak Layak Lagi Disebut Kota",
